@@ -132,7 +132,7 @@ $ git checkout master
 $ git merge [branch_name]
 ```
 
-Just changing staff.
+Just changing staff. # blah blah
 
 ## 4\. Git GUIs
 
