@@ -132,7 +132,7 @@ $ git checkout master
 $ git merge [branch_name]
 ```
 
-Just changing staff.
+Just changing staff. # this change is by Shankar.
 
 ## 4\. Git GUIs
 
